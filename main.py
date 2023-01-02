@@ -15,5 +15,13 @@
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-name = input('what is your name?')
-print('Hi' + name)
+#name = input('what is your name?')
+#print('Hi' + name)
+
+#def name(x):
+#    if x.lower() == "darth vader":
+#        return "Luke I am your father"
+#    if x.lower() == "leia":
+#        return "Luke I am your sister"
+#    if x.lower() == "han":
+#        return "Luke I am your brother in law"
